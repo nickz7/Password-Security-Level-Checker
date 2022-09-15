@@ -6,7 +6,7 @@
 
 **2. we need strong password and how we know which type of password is strong and good.**
 
-**3.For check which password is strong and good for we can set to our bank , google , facebook , wifi ,and etc . I have developed this tool this tool tell you which password is weak and which is strong.**
+**3. For check which password is strong and good for we can set to our bank , google , facebook , wifi ,and etc . I have developed this tool this tool tell you which password is weak and which is strong.**
 
 **4. One more question why ? we use this tools there is too many online tools are available for this question I give only one answer that is free of cost and online tools you used by browser and browser store history and these is hackable and most of website also . store cookie . these are not almost safe . and in my tool and can check your password in your mind.**
 
